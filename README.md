@@ -11,7 +11,7 @@ Default Directory:<br/>
 
 #Third Step
 Open Browser and Load the Project<br/>
-By Default Model Generation View will Appear, You can redirect to Controller Generation View through links given<br/>
+By Default Model Generation View will Appear, You can redirect to Controller Generation View through given links<br/>
 
 #Fourth Step
 Select required Table and Create Models/Controller<br/>
