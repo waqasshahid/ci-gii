@@ -75,6 +75,9 @@
 	<h1>Welcome to Auto-Controller Class Generator!</h1>
 
 	<div id="body">
+		<code>
+			<a href="<?php echo base_url(); ?>model_generator">Goto Model Generator</a>
+		</code>
 		<p>This Module is case-sensitive, Please Enter Table Name Correctly.</p>
 		<form action="<?php echo base_url(); ?>controller_generator/create_controller" method="post">
         <p>Enter Controller Name:</p>

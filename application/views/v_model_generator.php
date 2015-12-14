@@ -75,6 +75,9 @@
 	<h1>Welcome to Auto-Model Class Generator!</h1>
 
 	<div id="body">
+		<code>
+			<a href="<?php echo base_url(); ?>controller_generator">Goto Controller Generator</a>
+		</code>
 		<p>Create Models Manually.</p>
 		<form action="<?php echo base_url(); ?>model_generator/create_model" method="post">
 		<p>Select Table Name:</p>
